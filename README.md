@@ -2,7 +2,7 @@
 
 ###### 本项目为主机管理系统
 
-访问 http://127.0.0.1:8000/login/
+访问 http://auto.yuejiee.top
 ![img.png](img_z/img.png)
 
 最高权限账户
