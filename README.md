@@ -2,7 +2,7 @@
 
 ###### 本项目为主机管理系统
 
-访问 http://auto.yuejiee.top
+访问 http://auto.yuejiee.top/login
 ![img.png](img_z/img.png)
 
 最高权限账户
